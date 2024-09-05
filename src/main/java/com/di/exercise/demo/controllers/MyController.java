@@ -1,4 +1,4 @@
-package com.di.exercise.demo;
+package com.di.exercise.demo.controllers;
 
 import org.springframework.stereotype.Controller;
 
